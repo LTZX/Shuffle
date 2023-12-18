@@ -29,3 +29,8 @@ iframe {
 body {
 	background: #000000;
 }
+.modal-body-title{
+	color: white;
+	text-align: center;
+	margin: 10px;
+}
