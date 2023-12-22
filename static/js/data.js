@@ -1,7 +1,7 @@
 var playlists = [
     {
       "name": "christmas",
-      "id": "PLtZ6yiYzu2i1Upl2BYu6TNSh6ED2vUNET",
-      "max": 40
+      "id": "PLpMhhN3mCSfLbWtSrFvC9gNLnZCrekT5S",
+      "max": 99
     },
 ];
