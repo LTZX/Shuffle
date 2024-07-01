@@ -11,7 +11,8 @@ var generateRandom = function(num) {
 };
 
 var setURL = function(){
-        return app.baseURL.format(app.playlist.id, app.index) + app.queryStrings;
+      return "https://music.youtube.com/playlist?list=PLpMhhN3mCSfIJJeNWuHeF36eyDfGuREJb&si=acM33CtYNnqMWRd6";
+        // return app.baseURL.format(app.playlist.id, app.index) + app.queryStrings;
 };
 
 String.prototype.format = function() {
