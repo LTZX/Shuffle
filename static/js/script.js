@@ -29,7 +29,7 @@ app.playlist = (function(){
   return playlists[loc];
 }());
 
-app.index = generateRandom(app.playlist.max);
+app.index = generateRandom(playlists.length);
 
 app.iframeSrc = setURL();
 
